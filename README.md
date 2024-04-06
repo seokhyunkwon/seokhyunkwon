@@ -1,5 +1,5 @@
 ### Hi there 👋
- 안녕하세요. 컴퓨터 공학과 학생입니다. 
+ 안녕하세요. 컴퓨터 공학과 학생입니다. '오픈소스 소프트웨어의 이해' 과목을 들으며 Git에 가입하게 되었습니다. 열심히 꾸며보겠습니다 파이팅!
 <!--
 **seokhyunkwon/seokhyunkwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
