@@ -1,7 +1,8 @@
 ### Hi there 👋
  안녕하세요. 컴퓨터 공학과 학생입니다. '오픈소스 소프트웨어의 이해' 과목을 들으며 Git에 가입하게 되었습니다. 열심히 꾸며보겠습니다 파이팅!
- # <img src="https://img.shields.io/badge/기술명-색상코드?style=flat-square&logo=로고&logoColor=색상"/>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+ #![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=본인깃계정명&show_icons=true&theme=radical)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baeyuna97&show_icons=true&theme=radical)
+ #<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
  <!--
 
 **seokhyunkwon/seokhyunkwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
