@@ -1,7 +1,5 @@
 ### Hi there 👋
- 안녕하세요. 영남대 컴퓨터 공학과 학생입니다. 
- '오픈소스 소프트웨어의 이해' 과목을 들으며 Git을 사용하게 되었습니다. 
- 열심히 하겠습니다 파이팅!
+ 안녕하세요. 영남대 컴퓨터 공학과 학생입니다.
  
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seokhyunkwon&show_icons=true&theme=radical)
