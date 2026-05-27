@@ -1,1 +1,3 @@
-영남대학교 컴퓨터공학과 졸업
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{seokhyumkwon}?pet-id=1" width="1000" height="120"/>
+</a>
